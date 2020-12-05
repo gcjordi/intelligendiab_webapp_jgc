@@ -6,14 +6,6 @@ Live Web App: http://intelligendiab.ehealthai.eu/<br>
 In other browsers the app may freeze.</i>
 
 
-<br>
-
-<img src="http://intelligendiab.ehealthai.eu/assets/app_pic.png" width="400"></img>
-
-<br>
-
-
-
 
 This is a prototype for an online tool that can detect Diabetic Retinopathy on a fundus photo.
 
